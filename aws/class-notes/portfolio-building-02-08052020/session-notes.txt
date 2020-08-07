@@ -1,0 +1,32 @@
+Portfolio Building Session - 02
+Instructor - Callahan
+8/5/2020
+
+Solution for Project-101
+
+
+Session Outline
+
+Step 1: Download or clone project definition from `clarusway` repo on Github
+  - git clone https://github.com/callahan-cw/aws-project-workshop.git
+  - cd aws-project-workshop
+  - git add .
+  - git commit -m 'added my first project'
+  - git push
+
+Step 2: Create project folder for local public repo on your pc
+
+Step 3: Prepare a cloudformation template to deploy your app on EC2 Instance
+
+Step 4: Push your application into your own public repo on Github
+
+Step 5: Deploy your application on AWS Cloud using Cloudformation template.
+
+
+Session starts at 7pm EST
+
+Break until 8.05pm
+
+Break until 9.10pm
+
+
